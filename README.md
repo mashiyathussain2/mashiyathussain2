@@ -20,7 +20,7 @@ I'm a 3rd-year student pursuing B.Tech. in Computer Science Engineering. I have 
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
 
-[![Mashiyat's github stats](https://github-readme-stats.vercel.app/api?username=mashiyathussain2&show_icons=true&theme=vue-dark)](https://github.com/mashiyathussain2/github-readme-stats)
+[![Mashiyat's github stats](https://github-readme-stats.vercel.app/api?username=mashiyathussain2&show_icons=true&theme=vue-dark)](https://github.com/mashiyathussain2/)
 
 <!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mashiyathussain2&repo=COVID19Py&show_icons=true&theme=vue-dark)](https://github.com/mashiyathussain2/COVID19Py)-->
 
