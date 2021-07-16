@@ -24,6 +24,8 @@ I'm a 3rd-year student pursuing B.Tech in Computer Science Engineering. I have a
 
 <!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mashiyathussain2&repo=COVID19Py&show_icons=true&theme=vue-dark)](https://github.com/mashiyathussain2/COVID19Py)-->
 
+[![Mashiyat's github stats](https://activity-graph.herokuapp.com/graph?username=mashiyathussain2&theme=xcode)](https://github.com/mashiyathussain2/)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashiyathussain2&show_icons=true&theme=vue-dark&hide=html&layout=compact)](https://github.com/mashiyathussain2/)
 
 
